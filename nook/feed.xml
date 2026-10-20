@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jackson’s Nook · Puggle Monster Studios</title>
+  <subtitle>Jackson, our late puggle and the original Puggle Monster, loved to curl up in the nook of our bent legs. We called that cozy spot Jackson’s nook. Now it’s our corner for notes on new apps and updates as we build them.</subtitle>
+  <link rel="alternate" type="text/html" href="https://pugglemonster.com/nook/"/>
+  <link rel="self" type="application/atom+xml" href="https://pugglemonster.com/nook/feed.xml"/>
+  <id>https://pugglemonster.com/nook/</id>
+  <updated>2026-10-17T12:02:00-04:00</updated>
+  <author><name>Puggle Monster Studios</name><email>support@pugglemonster.com</email></author>
+  <icon>https://pugglemonster.com/favicon-32.png</icon>
+  <entry>
+    <title>October 2026: what’s new in our apps</title>
+    <link rel="alternate" type="text/html" href="https://pugglemonster.com/nook/2026-10-17-october-2026-whats-new.html"/>
+    <id>https://pugglemonster.com/nook/2026-10-17-october-2026-whats-new.html</id>
+    <published>2026-10-17T12:02:00-04:00</published>
+    <updated>2026-10-17T12:02:00-04:00</updated>
+    <summary>All seven of our apps got updates this month, including more readable screens, safer deletes, calendar export and keyboard play.</summary>
+    <content type="html">&lt;p&gt;All seven of our apps got updates this month. Most of the work went into small things that make each app easier to use: clearer buttons, text that’s easier to read, and a check before anything gets deleted. Here’s a quick look.&lt;/p&gt;
+&lt;h2&gt;Captain Ops 2.1.4&lt;/h2&gt;
+&lt;p&gt;Captain Ops is our desk for hockey captains: roster, schedule, RSVPs, lines and dues. Lines now show each player’s full name and jersey number. You can delete games you added yourself, and the app asks first. A game with no start time stays “TBD” and sorts last that day, and a blank rink is left out of texts and the calendar file. &lt;a href=&quot;https://island-sand-bloom-scarlet.grok.me&quot;&gt;Try Captain Ops on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Rec League Warrior 0.18.3&lt;/h2&gt;
+&lt;p&gt;Rec League Warrior is our app for rec hockey players. Add to Calendar works for one game or your whole schedule. A game with no start time shows “time TBD” and goes on your calendar as an all-day event. Removing a game asks first, then gives you a few seconds to undo. The privacy page now says plainly what stays on your phone. &lt;a href=&quot;https://garden-garden-juniper-trail.grok.me&quot;&gt;Try Rec League Warrior on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Keepers 1.2.1&lt;/h2&gt;
+&lt;p&gt;Keepers is our gluten-free grocery guide. It ranks products by whether the taste justifies the price. New users get a short welcome card. The Save and Compare buttons now name the product, aisles can sort by “Best value,” and the add form shows examples. Dining moved under Settings and asks before it uses your location. If a save fails, the message now tells you what actually went wrong. &lt;a href=&quot;https://crystal-urban-apex-mint.grok.me&quot;&gt;Try Keepers on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Strata 1.1.3&lt;/h2&gt;
+&lt;p&gt;Strata is a kitchen notebook for restriction diets: score a label, plan a plate, and log how it sat. It is not medical advice. The privacy page is shorter and easier to read. A wrong PIN shows a clear message, and after five misses Strata waits 30 seconds. Changing phase or starting a challenge asks first, and you can pause a challenge without ending it. &lt;a href=&quot;https://thunder-pixel-charm-dawn.grok.me&quot;&gt;Try Strata on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Lantern Keys 1.1.10&lt;/h2&gt;
+&lt;p&gt;Lantern Keys is our calm pocket piano. The keyboard now runs from C to C, so the top key lands where you’d expect: one octave when your phone is upright, three when it’s sideways. The Beat button stays lit only while the drums are really playing. On narrow screens the controls wrap instead of scrolling sideways, and the hints are larger and easier to read. &lt;a href=&quot;https://solar-cinder-silver-able.grok.me&quot;&gt;Try Lantern Keys on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Flock 1.1.7&lt;/h2&gt;
+&lt;p&gt;Flock is our flamingo puzzle: match the flock and clear the lagoon. This month it got its own privacy page, a color-blind setting that adds symbols to the tiles, steadier swipes, and a layout that fits a phone held sideways. You can also play with a keyboard or a screen reader, and keyboard focus now stays on the board after each move. &lt;a href=&quot;https://fern-zest-flame-xenon.grok.me&quot;&gt;Try Flock on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Ms. White Flamingo 1.0.4&lt;/h2&gt;
+&lt;p&gt;Ms. White Flamingo lets you design your own flamingo, stamp it on your photos, and share it as a sticker. You can now place, move, resize and rotate photo stamps with a keyboard, and the text is easier to read. On iPhone, the emoji opens the share sheet. Some birds used to lose the tops of their heads on photo stamps. Now the whole bird fits, on screen and in the saved photo. Switching pages also no longer loses the bird you just picked. &lt;a href=&quot;https://prairie-apex-tango-river.grok.me&quot;&gt;Try Ms. White Flamingo on the web&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks for trying our apps. Every one of them works in your web browser today. If something isn’t working the way you’d like, write to &lt;a href=&quot;mailto:support@pugglemonster.com&quot;&gt;support@pugglemonster.com&lt;/a&gt; and tell us which app and device you’re using.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Welcome to Jackson’s Nook</title>
+    <link rel="alternate" type="text/html" href="https://pugglemonster.com/nook/2026-10-17-welcome-to-jacksons-nook.html"/>
+    <id>https://pugglemonster.com/nook/2026-10-17-welcome-to-jacksons-nook.html</id>
+    <published>2026-10-17T12:01:00-04:00</published>
+    <updated>2026-10-17T12:01:00-04:00</updated>
+    <summary>What the nook is, why it has Jackson’s name, and what we’ll post here.</summary>
+    <content type="html">&lt;p&gt;Jackson, our late puggle, was the original Puggle Monster and the reason this studio has its name. His favorite spot was the nook of our bent legs, where he loved to curl up and cuddle. We called it Jackson’s nook, and it felt like the right name for a cozy corner of this site.&lt;/p&gt;
+&lt;h2&gt;What you’ll find here&lt;/h2&gt;
+&lt;p&gt;This is where we’ll post notes on new apps and updates as we build them: what changed, what got easier, and what we’re working on. Posts will be short and plain. You can read them here, or follow along with the &lt;a href=&quot;/nook/feed.xml&quot;&gt;Atom feed&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Small apps with a big heart&lt;/h2&gt;
+&lt;p&gt;Puggle Monster Studios makes small apps that each do one job well. We keep your information on your own device wherever we can, and we don’t add ads or analytics. You can see everything we make on the &lt;a href=&quot;/apps.html&quot;&gt;Apps page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Thanks for stopping by. Questions or ideas are always welcome at &lt;a href=&quot;mailto:support@pugglemonster.com&quot;&gt;support@pugglemonster.com&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+</feed>
