@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pete's Bathroom Rankings Privacy Policy · Puggle Monster Studios</title>
-<meta name="description" content="Privacy policy for Pete's Bathroom Rankings: no data collected; rankings stay on your device.">
+<meta name="description" content="Privacy policy for Pete's Bathroom Rankings: optional Google/X sign-in, public ratings on our servers, no PostHog.">
 <meta name="theme-color" content="#2b2340">
 <link rel="canonical" href="https://pugglemonster.com/petes-bathroom-rankings/privacy.html">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Puggle Monster Studios">
 <meta property="og:title" content="Pete's Bathroom Rankings Privacy Policy · Puggle Monster Studios">
-<meta property="og:description" content="Privacy policy for Pete's Bathroom Rankings: no data collected; rankings stay on your device.">
+<meta property="og:description" content="Privacy policy for Pete's Bathroom Rankings: optional Google/X sign-in, public ratings on our servers, no PostHog.">
 <meta property="og:url" content="https://pugglemonster.com/petes-bathroom-rankings/privacy.html">
 <meta property="og:image" content="https://pugglemonster.com/og.jpg">
 <meta name="twitter:card" content="summary_large_image">
@@ -30,16 +30,42 @@
 <main id="main" class="wrap">
 
 <h1>Pete's Bathroom Rankings Privacy Policy</h1><p class="meta">Effective October 27, 2026</p>
-<p class="lead"><strong>Short version:</strong> Pete's Bathroom Rankings collects no data. Nothing leaves your device: no analytics, no ads and no tracking. Your rankings stay on this phone.</p>
-<h2>Who we are</h2><p>Pete's Bathroom Rankings is made by HUMAN RESOURCES ON DEMAND INC., a New York corporation (“we”).</p>
-<h2>What stays on your device</h2><p>Your rankings, scores, pins and settings are saved on this device only (in the app’s local storage). An optional backup/restore file you export stays wherever you save it; we never see it. Sharing uses your device’s share sheet, so we don’t see what you share or who you share it with.</p>
-<h2>No data collected</h2><p>Pete's Bathroom Rankings has no analytics, no crash reporting and no advertising, and it doesn’t send rankings to us. We can’t see how you use the app.</p>
-<h2>Sign-in</h2><p>Some builds include an optional sign-in. Your rankings still stay on this device. If you use sign-in, only the sign-in details needed to keep you signed in are used for that purpose — and nothing about your rankings is uploaded with them. If that ever changes, we’ll update this page first.</p>
-<h2>What we don’t do</h2><p>No analytics, no advertising, no selling or sharing personal information, no tracking across other apps or websites, and no data brokers. We don’t collect personal data that identifies you from your rankings.</p>
-<h2>Children</h2><p>Pete's Bathroom Rankings is a general-audience app. It isn’t directed at children under 13, and we don’t knowingly collect personal information from them. The app collects no rankings data from anyone.</p>
-<h2>Your choices and rights</h2><p>Everything the app stores is on your device. Delete the app or clear this site’s data to erase it; delete any backup files you saved yourself. We hold no rankings data about you. If you email us at <a href="mailto:support@pugglemonster.com">support@pugglemonster.com</a>, we use your email only to reply.</p>
-<h2>Changes</h2><p>If this policy changes, we’ll update the date above and the app’s listing.</p>
-<h2>Contact</h2><p><a href="mailto:support@pugglemonster.com">support@pugglemonster.com</a> · HUMAN RESOURCES ON DEMAND INC. (Puggle Monster Studios), 3380 Sheridan Dr, PMB 159, Amherst, NY 14226</p>
+<p class="lead"><strong>Short version:</strong> You can use Pete's Bathroom Rankings without signing in. If you sign in with Google or X, we store your account details on our servers. Restroom listings and ratings are public data on our servers. We don’t run ads or analytics trackers like PostHog, and we don’t track you across other apps.</p>
+
+<h2>Who we are</h2>
+<p>Pete's Bathroom Rankings is made by HUMAN RESOURCES ON DEMAND INC., a New York corporation (“we”), publishing as Puggle Monster Studios.</p>
+
+<h2>Optional sign-in (Google or X)</h2>
+<p>Sign-in is optional. When it is on, you sign in through Google or X (OAuth). We use an auth service (Better Auth via the Grok auth broker). We do <strong>not</strong> offer email/password accounts.</p>
+<p>If you sign in, these account fields can be stored in our user database (server Postgres): your <strong>email</strong>, <strong>name</strong>, a <strong>user id</strong>, and your <strong>profile image</strong> (if the provider sends one), plus OAuth tokens needed to keep the session. Session records may also keep an IP address and user agent for security.</p>
+<p>We use that account data to keep you signed in and to run the app (App Functionality). We don’t sell it, and we don’t use it to track you across other companies’ apps or websites.</p>
+
+<h2>Restrooms and ratings (public server data)</h2>
+<p>Restroom listings and ratings are stored on our servers as public rows. They are <strong>not</strong> only on your device. Anyone using the app can see public listings and ratings. Local storage on your device is used for things like write-brakes / local UI state — it is not a private cloud of your rankings.</p>
+
+<h2>Location (pin city lookup)</h2>
+<p>When you pin or look up a place, the app may send your pin’s latitude and longitude to OpenStreetMap Nominatim to resolve a city/place name. That request goes to Nominatim (a third party). We use it only to label the place in the app. We don’t use location to track you across apps. See Nominatim’s own policy for how they handle requests.</p>
+
+<h2>What we don’t do</h2>
+<ul>
+<li>No PostHog or similar product-analytics SDK.</li>
+<li>No ads, no data brokers, no tracking across other apps or websites for advertising.</li>
+<li>No email/password passwords stored by us (OAuth only).</li>
+</ul>
+
+<h2>Your choices</h2>
+<p><strong>Don’t sign in</strong> if you prefer not to create a server account. You can still use public listings subject to how the app works when signed out.</p>
+<p><strong>Delete account / data:</strong> There is no confirmed in-app account-delete button in the materials we reviewed. Email <a href="mailto:support@pugglemonster.com">support@pugglemonster.com</a> and ask us to delete your account and associated server data. We’ll need the email you signed in with. Public restroom ratings you already posted may remain as public content unless you ask us to remove specific entries and we can identify them — flag this when you write.</p>
+<p>Depending on where you live (for example California or the EU/UK), you may have rights to access, delete or object. Contact us to use them.</p>
+
+<h2>Children</h2>
+<p>Pete's Bathroom Rankings is a general-audience app. It isn’t directed at children under 13. Don’t create an account for a child under 13.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, we’ll update the date above and the app’s listing.</p>
+
+<h2>Contact</h2>
+<p><a href="mailto:support@pugglemonster.com">support@pugglemonster.com</a> · HUMAN RESOURCES ON DEMAND INC. (Puggle Monster Studios), 3380 Sheridan Dr, PMB 159, Amherst, NY 14226</p>
 <p>Made by HUMAN RESOURCES ON DEMAND INC., a New York corporation.</p>
 <p><a href="/petes-bathroom-rankings/support.html">Pete's Bathroom Rankings support</a> · <a href="/support/">All app support</a></p>
 </main>
